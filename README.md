@@ -9,7 +9,7 @@ I first created a repository on Github, copied the SSH key and then cloned it to
 
 An example of the challenge where it has a comment workflow to organise changes.
 
-##Credits
+## Credits
 I used this existing template's footer section to create my footer section with changes to it.
 https://startbootstrap.com/theme/freelancer
 "Code released under the MIT license."
