@@ -2,7 +2,7 @@
 In this challenge, I have attempted to make a portfolio using basic Bootstrap framework elements with the help of this website: https://getbootstrap.com/docs/4.0/getting-started/introduction/.
 I've also added various features such as cards, rounded avatar styling, colors.
 
-Linked to deployed application: https://nj-09.github.io/Bootstrap-Portfolio/
+Link to deployed application: https://nj-09.github.io/Bootstrap-Portfolio/
 
 Screenshot of application: ![image](https://user-images.githubusercontent.com/119903128/223219257-43bf5873-c8d7-448a-937f-17dc8a324fb2.png)
 
